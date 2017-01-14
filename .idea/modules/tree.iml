@@ -52,5 +52,6 @@
     <orderEntry type="library" scope="TEST" name="SBT: org.specs2:specs2-common_2.10:2.3.11:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.specs2:specs2-core_2.10:2.3.11:jar" level="project" />
     <orderEntry type="library" scope="TEST" name="SBT: org.specs2:specs2-matcher_2.10:2.3.11:jar" level="project" />
+    <orderEntry type="library" name="scala-sdk-2.10.6" level="application" />
   </component>
 </module>
